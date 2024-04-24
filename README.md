@@ -1,2 +1,2 @@
 # azure-resume
-My own resume, following ACG project video.
+My own Azure resume, following ACG project video.
